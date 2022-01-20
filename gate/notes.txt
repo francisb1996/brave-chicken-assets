@@ -1,6 +1,0 @@
--remove the 'poly view farm' lettering from the model
--rename the object from "Text.001_0" to something like "gate" or "farm_gate"
--rename the mesh from "Text.001_0" to something like "gate" or "farm_gate"
--move the object "Text.001_0" upwards 5.5 meters along the global z axis and f3-apply all transforms
--rename the material "material_9_color_0" to something like "gate" or "farm_gate"
--rename the image material_9_baseColor.png to something like "gate.png" or "farm_gate.png"
