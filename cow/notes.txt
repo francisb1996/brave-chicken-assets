@@ -1,5 +1,0 @@
--rename the object Plane.007_0 to something like "cow"
--rename the mesh Plane.007_0 to something like "cow"
--rename the material "material_1" to something like "cow"
--translate the cow +30m along the global z axis then f3-> apply all transforms
--rename the image "material_1_baseColor.png" to something like "cow.png"
